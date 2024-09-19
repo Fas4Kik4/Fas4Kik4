@@ -20,18 +20,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### Мої серії комітів:
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ваш_нікнейм&theme=radical&hide_border=true)
+### 📊 Statistics
 
-### Статистика по репозиторіям:
-![GitHub Stars](https://img.shields.io/github/stars/ваш_нікнейм?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
-![GitHub Forks](https://img.shields.io/github/forks/ваш_нікнейм?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
-
-### Досягнення GitHub:
-[![trophy](https://github-profile-trophy.vercel.app/?username=ваш_нікнейм&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-### Діаграма активності:
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ваш_нікнейм&theme=react-dark)](https://github.com/ваш_нікнейм)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmperorElementus&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmperorElementus&theme=dark" alt="GitHub Streak Stats" />
+</p>
 
 
 
