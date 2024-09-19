@@ -20,7 +20,18 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### GitHub Статистика:
-![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=ваш_нікнейм&show_icons=true&theme=radical)
-![Мови у використанні](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_нікнейм&layout=compact&theme=radical)
+### Мої серії комітів:
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ваш_нікнейм&theme=radical&hide_border=true)
+
+### Статистика по репозиторіям:
+![GitHub Stars](https://img.shields.io/github/stars/ваш_нікнейм?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/ваш_нікнейм?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
+
+### Досягнення GitHub:
+[![trophy](https://github-profile-trophy.vercel.app/?username=ваш_нікнейм&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Діаграма активності:
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ваш_нікнейм&theme=react-dark)](https://github.com/ваш_нікнейм)
+
+
 
