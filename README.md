@@ -20,12 +20,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 Statistics
+### Статистика:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmperorElementus&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmperorElementus&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ваш_нікнейм&show_icons=true&hide_title=false&count_private=true&hide=prs,issues&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ваш_нікнейм&theme=radical" alt="GitHub Streak Stats" />
 </p>
+
 
 
 
